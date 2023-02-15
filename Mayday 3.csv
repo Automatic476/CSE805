@@ -1,0 +1,66 @@
+﻿Location,Asset,Description,Make ,Processor/Core,Model,Graphics Card,Aquired Date,Use,Obsolete,Count,Department,Building
+112 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+114 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+116 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+118 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+120 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+201 Marteena Hall,Computer,Dell desktop ,Dell,,,,2014,Classroom ,Yes,3,Mathstats,Marteena
+212 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+214 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+216 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+220 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+220 Marteena Hall,Computer,Dell desktop ,Dell,,,,2022,Classroom ,No,1,Mathstats,Marteena
+222 Marteena Hall,Computer,Dell desktop ,Dell,,,,2014,Classroom ,Yes,1,Mathstats,Marteena
+233 Marteena Hall,Computer,Dell desktop ,Dell,,,,,,,3,Mathstats,Marteena
+Smith 3018,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,5720,Radeon Pro WX 4150,not reported,Classroom ,almost,29,BLTE,Smith
+Price 112J,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,7050,Radeon Pro WX 4150,not reported,Classroom ,almost,13,BLTE,Price
+Smith 3009,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,7050,Radeon Pro WX 4150,not reported,Classroom ,almost,29,BLTE,Smith
+Smith 4007,Workstation,Precision 7920 Workstation,Dell,xeon E5-2620 @2.40 Ghz,7920,Nvidia Tesla cards x 2,not reported,Reseach and Classroom,almost,1,BLTE,Smith
+IRC Server room ,Servers,Dell PowerEdge R740,Dell,"Dell PowerEdge R740 Intel Xeon Silver 4116 CPU @ 2.10GHz, 12 cores, 24 threads. 2 CPUs per server for 48 logical cores. 192GB of RAM;
+1x 450GB SSD for Cache; 2x 1.8TB SSD for Capacity; ",R740,4x Nvidia Tesl P4 Graphics adapters 8GB each,not reported,Online and in Class teaching,not specified,4,BLTE,IRC 
+Smith 3018,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,5720,Radeon Pro WX 4150,not reported,Classroom ,almost,29,Biology ,Smith
+Price 112J,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,7050,Radeon Pro WX 4150,not reported,Classroom ,almost,13,Biology ,Price
+Smith 3009,AIO,Dell All in ones ,Dell,xeon E3-1225 @ 3.30 ghz,7050,Radeon Pro WX 4150,not reported,Classroom ,almost,29,Biology ,Smith
+Smith 4007,Workstation,Precision 7920 Workstation,Dell,xeon E5-2620 @2.40 Ghz,7920,Nvidia Tesla cards x 2,not reported,Reseach and Classroom,almost,1,Biology ,Smith
+IRC Server room ,Servers,Dell PowerEdge R740,Dell,"Dell PowerEdge R740 Intel Xeon Silver 4116 CPU @ 2.10GHz, 12 cores, 24 threads. 2 CPUs per server for 48 logical cores. 192GB of RAM;
+1x 450GB SSD for Cache; 2x 1.8TB SSD for Capacity; ",R740,4x Nvidia Tesl P4 Graphics adapters 8GB each,not reported,Online and in Class teaching,not specified,4,Biology ,IRC 
+Smith 3009,AIO,24 Dell All-in-one Computers,Dell,Core i7,AIO-All-in-One,,2020,Classroom/lab use for students,Yes,24,GDT- Biology,Smith
+Smith 3009,Podium,1 Podium Computer,Dell,Core i9,Precision 3640,,2021,Classroom/lab instruction for faculty,No,1,GDT- Biology,Smith
+Smith 4009,Computer,20 HP computers,HP,Core i7,Z2 Workstaion,,2022,Classroom/lab use for students,No,20,GDT- Biology,Smith
+Smith 4009,Mac,5 Apple Mac Computers,Apple,8-Core,Mac mini,,2017,Classroom/lab use for students,Yes,5,GDT- Biology,Smith
+Smith 4009,Podium,1 Podium computer,Apple,8-Core,Mac Mini,,2018,Classroom/lab instruction for faculty,Yes,1,GDT- Biology,Smith
+Smith 4011,Podium,19 Dell Optiplex Computers,Dell,Core i7,Optiplex 7050,,2019,Classroom/lab use for students,Yes,19,GDT- Biology,Smith
+Smith 4011,Podium,1 Podium computer,Dell,Core i7,Optiplex 7050,,2019,Classroom/lab instruction for faculty,Yes,1,GDT- Biology,Smith
+Smith 4012,Computer,13 Dell Computers,Dell,Core i7,Optiplex 7060,,2020,Classroom/lab use for students,No,13,GDT- Biology,Smith
+Smith 4012,Computer,6 HP computers,HP,Core i7,Elitedesk,,2021,Classroom/lab use for students,No,6,GDT- Biology,Smith
+Smith 4012,Computer,3 Lenovo Computers,Lenovo,Core i5,Thinkcentres,,2016,Classroom/lab use for students,Yes,3,GDT- Biology,Smith
+Smith 4012,Podium,1 Podium computer,Lenovo,Core i7,Thinkcentres,,2016,Classroom/lab instruction for faculty,Yes,1,GDT- Biology,Smith
+Smith 2014,Podium,1 podium computer,HP,Core i7,Elitedesk,,2022,Classroom use for faculty,No,1,GDT- Biology,Smith
+Jacque Lee- Price 103B,Computer,1 admin computer,Lenovo,Core i5,Thinkcentres,,2016,Staff/admin use,Yes,1,GDT- Biology,Price
+Regina-Price 116 - *Moving to CST*,Computer,1 admin computer,Dell,Core i5,Optiplex 5050,,2020,Staff/admin use,Yes,1,GDT- Biology,Price
+Dr. Childress - Smith Hall-Deans office,Computer,1 admin computer,Lenovo,Core i5,5032CTO,,2016,Office/admin use,Yes,1,GDT- Biology,Dr. Childress' - Deans Office
+IRC Bldg Basement,HPC cluster,"The HPC cluster system has one head node, 32 computing nodes total in 384 cores in 8 chassis with 64 processors and 96 GB RAM, 1 KVM, 1 NFS storage solution of 96 TB, together with Rock+ management software and Intel compilers",Dell ,,,,2013,"Faculty research, graduate education & UG research training",almost,1,Mathstats,IRC 
+200 Marteena Hall,AIO,"Statistical computing lab consists of 22 thin-client computers supported by a server with designated statistical and data analytical software packages such as SAS, R, SPSS, MATLAB, and Python",Dell ,,,,2017,"Faculty rsearch, graduate education & UG research training",almost,22,Mathstats,Marteena
+200 Marteena Hall,,The high-resolution visual display consists of the Planar's titled 3x3 55'' clarity matrix LCDs system,Planar,,,,2013,"Faculty rsearch, graduate education & UG research training",almost,1,Mathstats,Marteena
+319 Hines Hall,Servers,"This lab consists of a Windows server, four desktop workstations and over a dozen hand-held portal GPS devices",Dell ,,,,2011,"Faculty rsearch, graduate education & UG research training",Yes,1,Mathstats,Hines
+319 Hines Hall,Workstation,,Dell ,,,,not reported,,not specified,4,Mathstats,Hines
+319 Hines Hall,GPS Devices,,N/A,,,,not reported,,not specified,12,Mathstats,Hines
+236 Marteena Hall,Computer,"This facility consists of a portable 60” interactive 6 point touch smartboard, a ConferenceCam Video Conferencing Camera for video conference, an audio teleconference system, and four desktop computers","Smart, Apple and Dell",,,,2007,"Faculty rsearch, graduate education & client service",almost,4,Mathstats,Marteena
+122 Marteena Hall,Computer,"This lab consists of a Windows server, 15 desktop computers, a ceiling mounted LCD projector with capacity to project four tiled pictures from four different sources, a desktop document camera, a concealed motorized screen, and an audio system.",Dell & Dukane,,,,2011,"Faculty rsearch, graduate education & UG research training",almost,15,Mathstats,Marteena
+Barnes G11,Computer,,Dell ,Windows 7,C8ZKMS1,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,AIO,All in One,Apple,n/a,n/a,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,AIO,All in One,Apple,n/a,n/a,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,AIO,All in One,Apple,n/a,n/a,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,N/A,n/a,Pegasus,n/a,QUL044030231,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,Workstation,Precision Tower,Dell ,T3600,6L2MSW1,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Barnes G11,Workstation,Precision Tower,Dell ,T3600,6L2NSW1,,not reported,Data Analytics Lab,not specified,1,Biology ,Barnes
+Price Hall 201b,AIO,Dell All in ones,Dell,,,,2022,Classroom,No,21,CST,Price
+Price Hall 201b,Computer,Lenovo desktop,Lenovo,,Optiplex 3040,,2018,Podium desktop,Yes,1,CST,Price
+Price Hall 202,Computer,Lenovo desktop,Lenovo,,,,2018,Podium desktop,Yes,1,CST,Price
+Price Hall 204,Computer,Dell All in ones,Dell,,,,2022,Classroom,No,21,CST,Price
+Smith Hall 4008,Computer,Lenovo desktop,Lenovo,,Thinkcentres,,2016,Classroom,Yes,14,CST,Smith
+Smith Hall 4008,Computer,Dell desktop,Dell,,Optiplex 755,,2017,Podium desktop,Yes,1,CST,Smith
+Smith Hall 4001,Computer,Dell All in ones,Dell,,,,2022,Classroom,No,35,CST,Smith
+Smith Hall 4001,AIO,Dell,Dell,,,,2020,Podium desktop,No,1,CST,Smith
+Smith Hall 4016,AIO,Thin clients ,Dell,,,,2021,Classroom,No,30,CST,Smith
+Smith Hall 4016,Computer,Dell desktop,Dell,,,,2022,Podium desktop,No,1,CST,Smith
