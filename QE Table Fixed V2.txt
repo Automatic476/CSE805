@@ -1,4 +1,4 @@
-Location Town Mortal Hardness
+Location, Town, Mortal, Hardness,
 S, Bath, 1247, 105,
 N, Birkenhead, 1668, 17,
 S, Birmingham, 1466, 5,
